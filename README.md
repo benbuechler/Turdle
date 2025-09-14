@@ -1,2 +1,1 @@
-# Turdle
-AI Assisted Dog Pooper Scooper
+# Turdle - AI Assisted Dog Pooper Scooper (Capstone)
