@@ -1,4 +1,4 @@
-# Turdle - — Autonomous Pet Waste Collector
+# Turdle — Autonomous Pet Waste Collector
 
 A small outdoor mobile robot that patrols lawns, detects pet waste, and safely collects it into a sealed container. Think "Roomba for yards," tuned for detection, bio‑safety, and lawn‑friendly navigation.
 
